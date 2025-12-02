@@ -1,0 +1,21 @@
+# Core Libraries
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.25.2
+
+# Visualization
+plotly==5.17.0
+seaborn==0.12.2
+matplotlib==3.8.0
+
+# Computer Vision & Gesture Recognition
+opencv-python==4.8.1.78
+mediapipe==0.10.5
+
+# Voice Recognition
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+
+# Additional Dependencies
+pillow==10.0.0
+scipy==1.11.2
