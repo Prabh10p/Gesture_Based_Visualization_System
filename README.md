@@ -1,0 +1,2 @@
+# 📊 Multimodal Data Visualization System
+An interactive Streamlit-based multimodal data visualization application that allows users to explore data using manual controls, voice commands, and hand gestures. The system supports multiple chart types, filtering, comparison mode, and CSV uploads, combining data analytics with computer vision and speech recognition.
